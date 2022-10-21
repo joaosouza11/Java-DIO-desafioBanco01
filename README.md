@@ -1,6 +1,6 @@
 ## Projeto feito durante o Bootcamp Québec Java Digital para treinar os conhecimento em Orientação a Objetos.
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=joaoasouza11&color=006bed)
 
 <h3> Contém 3 principais funções: </h3>
   - &nbsp; sacar();
