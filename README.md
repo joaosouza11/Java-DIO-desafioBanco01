@@ -7,6 +7,9 @@
 <h3> E 2 tipos de conta: </h3>
 - &nbsp; poupança;
 - &nbsp; corrente;
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
 **Feito com**
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
