@@ -10,4 +10,4 @@
 * corrente;
 
 **Feito com**
-☕![Java](https://img.shields.io/badge/-Java-style=flat&logo=Java&logoColor=0042396)
+☕![Java](https://img.shields.io/badge/Java&logoColor=0042396)
