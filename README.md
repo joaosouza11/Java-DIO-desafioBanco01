@@ -1,4 +1,7 @@
 ## Projeto feito durante o Bootcamp Québec Java Digital para treinar os conhecimento em Orientação a Objetos.
+
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+
 <h3> Contém 3 principais funções: </h3>
   - &nbsp; sacar();
   - &nbsp; depositar();
@@ -7,8 +10,6 @@
 <h3> E 2 tipos de conta: </h3>
 - &nbsp; poupança;
 - &nbsp; corrente;
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
 **Feito com**
 
