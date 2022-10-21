@@ -9,5 +9,4 @@
 * poupança;
 * corrente;
 
-**Feito com**
-☕![Java](https://img.shields.io/badge/Java&logoColor=0042396)
+**Feito com ☕Java**
